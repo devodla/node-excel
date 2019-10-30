@@ -1,0 +1,15 @@
+{
+  "name": "excel-node",
+  "version": "1.0.0",
+  "description": "example for nodejs export excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reynaldo Layme",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1"
+  }
+}
